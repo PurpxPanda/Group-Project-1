@@ -1,0 +1,13 @@
+.navbar {
+    display: flex;
+    justify-content: center;
+    font-size: 110%;
+    color: #9d63d3;
+}
+
+.awesome-text {
+    text-decoration: underline;
+    color: #e62f2f;
+    background-color: #000;
+    display: inline-block;
+}
